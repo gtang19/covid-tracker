@@ -1,0 +1,24 @@
+{
+  "name": "covid-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtang19/covid-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtang19/covid-tracker/issues"
+  },
+  "homepage": "https://github.com/gtang19/covid-tracker#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "jsdom": "^16.4.0"
+  }
+}
